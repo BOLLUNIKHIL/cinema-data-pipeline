@@ -21,7 +21,11 @@ End-to-end Big Data pipeline that fetches trending movie data from TMDB and OMDB
 ## Datalake structure
 
 ```
-data/raw/cinema/tmdb/data/raw/cinema/omdb/data/formatted/cinema/tmdb/data/formatted/cinema/omdb/data/usage/cinema/movie_enriched/
+data/raw/cinema/tmdb/
+data/raw/cinema/omdb/
+data/formatted/cinema/tmdb/
+data/formatted/cinema/omdb/
+data/usage/cinema/movie_enriched/
 ```
 
 ## How to run
